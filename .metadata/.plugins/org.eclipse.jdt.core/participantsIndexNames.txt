@@ -1,0 +1,7 @@
+INDEX VERSION 1.130
+D:\teste\DBE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\767856332.index
+\ExemploWS\src
+D:\teste\DBE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3429039829.index
+\ExemploWS\src
+D:\teste\DBE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\838234521.index
+\ExemploWS\src

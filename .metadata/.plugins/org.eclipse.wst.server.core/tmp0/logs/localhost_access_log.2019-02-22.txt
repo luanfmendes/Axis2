@@ -1,0 +1,15 @@
+127.0.0.1 - - [22/Feb/2019:10:42:48 -0300] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:10:50:14 -0300] "GET /ExemploWS HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:10:50:14 -0300] "GET /ExemploWS/ HTTP/1.1" 200 3475
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:10:50:14 -0300] "GET /ExemploWS/axis2-web/images/axis_l.jpg HTTP/1.1" 200 12340
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:10:50:14 -0300] "GET /ExemploWS/axis2-web/images/asf-logo.gif HTTP/1.1" 200 5866
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:10:50:14 -0300] "GET /ExemploWS/axis2-web/css/axis-style.css HTTP/1.1" 200 1587
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:10:50:15 -0300] "GET /favicon.ico HTTP/1.1" 404 1084
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:11:06:15 -0300] "GET /ExemploWS/services/listServices HTTP/1.1" 200 3822
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:11:06:15 -0300] "GET /ExemploWS/axis2-web/images/asf-logo.gif HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:11:06:15 -0300] "GET /ExemploWS/axis2-web/images/axis_l.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:11:06:15 -0300] "GET /ExemploWS/axis2-web/css/axis-style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:11:06:23 -0300] "GET /ExemploWS/services/EstoqueBO?wsdl HTTP/1.1" 200 5274
+127.0.0.1 - - [22/Feb/2019:11:08:14 -0300] "GET /ExemploWS/services/EstoqueBO?wsdl HTTP/1.1" 200 5274
+127.0.0.1 - - [22/Feb/2019:11:09:20 -0300] "POST /ExemploWS/services/EstoqueBO.EstoqueBOHttpSoap11Endpoint/ HTTP/1.1" 200 578
+127.0.0.1 - - [22/Feb/2019:11:14:47 -0300] "POST /ExemploWS/services/EstoqueBO.EstoqueBOHttpSoap11Endpoint/ HTTP/1.1" 500 318
